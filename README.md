@@ -19,7 +19,7 @@
 
 ## ✨ Key Features
 
-* ⚡ **Modern UI:** Crafted for high-impact informational websites.**.
+* ⚡ **Modern UI:** Crafted for high-impact informational websites.
 * 📱 **Fully Responsive:** Pixel-perfect optimization for all devices and screen sizes.
 * 🛠️ **Clean Architecture:** Formatted with PostCSS for scalable code.
 
